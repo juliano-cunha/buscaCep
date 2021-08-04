@@ -1,0 +1,10 @@
+.title{
+    background-color: #3EB489;
+    text-align: center;
+    color: white;
+}
+
+#btnSearch{
+    margin-top: 10px;
+    padding: 10px;
+}
